@@ -14,6 +14,8 @@ int main()
 {
     static int static_var = 85;
     static int static_var2;
+    // static int x1 = 0;
+    // static int x2 = 1;
 
     int a = 1;
     int b;
